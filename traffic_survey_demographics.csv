@@ -1,0 +1,51 @@
+respondent_id,age,gender,education_level,nationality,postcode
+1,68,Male,High School,Australian,4101
+2,62,Male,High School,Australian,4115
+3,27,Female,High School,Australian,4205
+4,59,Male,Bachelor's Degree,Australian,4117
+5,36,Female,Bachelor's Degree,Other,4119
+6,38,Male,High School,Australian,4158
+7,60,Female,Bachelor's Degree,Australian,4152
+8,65,Female,Master's Degree,Australian,4064
+9,35,Female,Other/Vocational,New Zealander,4113
+10,37,Male,Bachelor's Degree,Filipino,4119
+11,68,Male,PhD,Australian,4172
+12,56,Female,Other/Vocational,Australian,4032
+13,40,Male,High School,Australian,4118
+14,62,Female,Master's Degree,Australian,4130
+15,39,Male,Bachelor's Degree,Australian,4113
+16,50,Female,PhD,Other,4115
+17,48,Female,High School,New Zealander,4011
+18,53,Male,Bachelor's Degree,Australian,4153
+19,23,Female,Bachelor's Degree,Australian,4161
+20,67,Male,High School,Other,4012
+21,22,Male,Bachelor's Degree,Australian,4021
+22,40,Male,Bachelor's Degree,Other,4037
+23,51,Male,Bachelor's Degree,UK,4055
+24,34,Female,Other/Vocational,Chinese,4174
+25,62,Female,High School,UK,4030
+26,63,Male,Bachelor's Degree,Other,4106
+27,70,Female,High School,Australian,4119
+28,70,Female,High School,Filipino,4067
+29,52,Female,Master's Degree,Australian,4156
+30,45,Female,Bachelor's Degree,Other,4018
+31,56,Male,High School,Australian,4165
+32,57,Male,Bachelor's Degree,Australian,4153
+33,55,Male,High School,Australian,4011
+34,21,Male,Master's Degree,Australian,4110
+35,41,Male,Master's Degree,Australian,4157
+36,50,Male,Master's Degree,Filipino,4013
+37,64,Female,Bachelor's Degree,Australian,4103
+38,37,Male,Bachelor's Degree,Australian,4119
+39,69,Male,PhD,Chinese,4103
+40,20,Female,Bachelor's Degree,Australian,4019
+41,67,Female,Bachelor's Degree,Australian,4075
+42,37,Female,Bachelor's Degree,Australian,4133
+43,33,Female,Master's Degree,New Zealander,4172
+44,18,Male,Bachelor's Degree,Australian,4034
+45,40,Female,Bachelor's Degree,Australian,4101
+46,28,Male,Bachelor's Degree,Australian,4014
+47,27,Female,Bachelor's Degree,Chinese,4019
+48,69,Male,PhD,Australian,4123
+49,43,Male,Bachelor's Degree,Australian,4172
+50,50,Female,Other/Vocational,Australian,4128
